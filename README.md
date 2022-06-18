@@ -2,7 +2,7 @@
 This project was created as part of the **2021-2022 Bachelor Research Project at Delft University of Technology**.
 Access to the bachelor thesis is provided on the TU Delft repository: [to-add].
 
-The contents of this repository include the data used in our experiments, and the scripts for the implementation and evaluation of the prediction models.
+The contents of this repository include the scripts for the implementation and evaluation of the prediction models used in our experiments.
 
 ## Requirements
 To run all scripts, install the following dependencies:
@@ -10,7 +10,7 @@ To run all scripts, install the following dependencies:
 - pandas v1.4.2
 - goatools v0.7.11
 
-To generate embeddings from scratch, you can use the [bio-embeddings](https://anaconda.org/conda-forge/bio-embeddings) conda package. We provide all embeddings that were used in our own experiments in the ``data`` folder.
+To generate embeddings from scratch, you can use the [bio-embeddings](https://anaconda.org/conda-forge/bio-embeddings) conda package.
 
 ## Usage
 ### Generating predictions
