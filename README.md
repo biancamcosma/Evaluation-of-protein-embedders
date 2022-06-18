@@ -10,7 +10,7 @@ To run all scripts, install the following dependencies:
 - pandas v1.4.2
 - goatools v0.7.11
 
-To generate prediction from scratch, you can use the [bio-embeddings](https://anaconda.org/conda-forge/bio-embeddings) conda package. We provide all embeddings that were used in our own experiments in the ``data`` folder.
+To generate embeddings from scratch, you can use the [bio-embeddings](https://anaconda.org/conda-forge/bio-embeddings) conda package. We provide all embeddings that were used in our own experiments in the ``data`` folder.
 
 ## Usage
 ### Generating predictions
